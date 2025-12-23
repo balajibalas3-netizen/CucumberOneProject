@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="8.868" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-12-09T07:54:59.377555300Z">
+<testcase classname="Verifying omrbranch login page" name="Verifying instagram credentials - #1.1" time="4.754">
+<system-out><![CDATA[
+Given user is on the omrbranch login page...................................passed
+When user enter "amalnath@gmail.com" and "Amal@123".........................passed
+And user clicks the login button............................................passed
+Then user should verify after login sucess message..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Verifying omrbranch login page" name="Verifying instagram credentials - #1.2" time="3.864">
+<system-out><![CDATA[
+Given user is on the omrbranch login page...................................passed
+When user enter "suriya@gmail.com" and "Suriya@123".........................passed
+And user clicks the login button............................................passed
+Then user should verify after login sucess message..........................passed
+]]></system-out>
+</testcase>
+</testsuite>

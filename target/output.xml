@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="5.115" tests="1" skipped="0" failures="1" errors="0" timestamp="2025-12-09T06:52:20.247162700Z">
+<testcase classname="Verifying the Facebook Login" name="Amazon Product page" time="4.844">
+<failure/>
+<system-out><![CDATA[
+Given user is on the facebook page..........................................passed
+When user enter username and passwor........................................undefined
+And user clicks the login button............................................skipped
+Then user should verify after login sucess message..........................skipped
+]]></system-out>
+</testcase>
+</testsuite>
